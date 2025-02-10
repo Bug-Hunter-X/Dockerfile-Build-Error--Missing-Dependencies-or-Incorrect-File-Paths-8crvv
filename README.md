@@ -1,0 +1,1 @@
+This repository contains a Dockerfile with a common error and its solution. The original Dockerfile fails to build because it neglects to specify the correct working directory or install dependencies correctly. The solution demonstrates how to remedy the build error with improved dependency handling and working directory management.
